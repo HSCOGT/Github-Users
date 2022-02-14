@@ -4,7 +4,7 @@ Search for GitHub users. Flutter App.
 
 ### Development Environment
 
-The Flutter `stable` channel was at `v1.12.13+hotfix.5` when working on this 
+The Flutter `stable` channel was at `v2.5.3` when working on this 
 project. More specifically, the following environment was used, as reported 
 by the `flutter doctor -v` command:
 
